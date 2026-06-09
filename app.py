@@ -25,7 +25,7 @@ st.markdown("""
         border: none;
         width: 100vw;
         height: 100vh;
-        background-color: #1a1716; /* サロン用の高級ダーク背景色 */
+        background-color: #ffffff; /* クリーンなSaaS風背景色 */
     }
     </style>
 """, unsafe_allow_html=True)
